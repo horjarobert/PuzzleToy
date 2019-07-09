@@ -1,5 +1,7 @@
 --- PuzzleToy - Nature ---
 
+![Demo](https://github.com/horjarobert/PuzzleToy/blob/master/puzzleToy.gif)
+
 # 1.Intro #
 
 -A strong app with a modern UI/UX where you can interact with it...    
