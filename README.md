@@ -1,5 +1,7 @@
 --- PuzzleToy - Nature ---
 
+# <b><em>Fast</em></b> Demo #
+
 ![Demo](https://github.com/horjarobert/PuzzleToy/blob/master/puzzleToy.gif)
 
 # 1.Intro #
